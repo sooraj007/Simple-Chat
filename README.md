@@ -12,5 +12,11 @@ Installation Steps :)
 Note:
 =====
 
+I had used idiorm for database operation which is good orm and works fine .. 
+
+Fork on : https://github.com/j4mie/idiorm
+
+idi orm Documentation : https://idiorm.readthedocs.org/en/latest/
+
 File arrangment is messed ... Sorry for that ... but code works fine .. :)
 
